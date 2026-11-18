@@ -1,4 +1,4 @@
-import Practice from "./components/practice"
+import Practice from "./components/Practice"
 
 
 function App() {
